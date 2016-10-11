@@ -1,0 +1,7 @@
+slope e_slope zeropoint e_zeropoint mean_logp source type band sample n_stars
+-0.24100 0.94002 -0.60741 0.00553 -0.29665 FreeFit Fund 3p6 complete 38.00000
+-2.35269 0.67949 -0.53604 0.00383 -0.27515 FreeFit ab 3p6 complete 27.00000
+5.70776 10.84196 -0.78259 0.02782 -0.47640 FreeFit c 3p6 complete 11.00000
+-0.26206 0.93948 -0.62373 0.00553 -0.29665 FreeFit Fund 4p5 complete 38.00000
+-2.37542 0.68980 -0.55245 0.00389 -0.27515 FreeFit ab 4p5 complete 27.00000
+5.67005 10.66793 -0.79868 0.02737 -0.47640 FreeFit c 4p5 complete 11.00000
